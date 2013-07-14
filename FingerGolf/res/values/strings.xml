@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FingerGolf</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">フィンガーゴルフ0.3</string>
+    <string name="start_button">スタート</string>	
+	<string name="rule_button">ルール説明</string>
+	<string name="return_to">スタート画面へ戻る</string>
+    <string name="test">テスト</string>
+    <string name="game_over">ゲームオーバー</string>
+    <string name="stage_clear">ステージクリア</string>
+    <string name="please_drag">ドラッグしてください</string>
+    <string name="nexts">次のホール</string>
+    <string name="score_text">全スコア</string>
+    <string name="score">0</string>
+    <string name="touch">タッチ回数</string>
+    <string name="num_of_touch">0</string>
+    <string name="left_time">0</string>
+    <string name="lefttext">残り時間</string>
+    <string name="bounus_text">ボーナス</string>
+    <string name="bounus">0</string>
+    <string name="num_of_hole">n</string>
+    <string name="hole_text">ホール目スコア</string>
+    <string name="n_hole_score">0</string>
+    
+    <string name= "option">オプション</string>
+    <string name="volume">音量</string>
+    <string name="test_sound">テスト音</string>
+</resources>
