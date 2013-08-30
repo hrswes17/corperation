@@ -27,6 +27,11 @@
             android:label="screen2"
             android:screenOrientation="portrait">
         </activity>
+        <activity
+            android:name="Screen3Activity"
+            android:label="screen3"
+            android:screenOrientation="portrait">
+        </activity>
         
     </application>
 
