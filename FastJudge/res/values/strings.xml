@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FastJudge</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="twitter_consumer_key">hxlL6ywLvG8PTfdJTj1zsw</string>
+    <string name="twitter_consumer_secret">lZxJB9dKEZOtEaGzhgCOr2C6iKJttWNUIrUrzcRrk</string>
+    <string name="twitter_oauth">Twitter認証</string>
+    <string name="twitter_callback_url">fastjudge://twitter</string>
+    <string name="access_token_secret">yE1lexVhozCzKPwrjyjEqpJ9xctPBMngWY9ktYDjU8</string>
+    <string name="access_token">871875260-1ZHppbop0ueQktsH9HrMszg1lR1nPXuydrS6dWit</string>
+    <string name="tweet">ツイートする</string>
+    <string name="back">戻る</string>
+    
+
+</resources>
