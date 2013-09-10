@@ -22,6 +22,25 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        
+        
+      <activity
+            android:name=".FoodQuest2" 
+            android:label="quest2"
+            android:screenOrientation="portrait">
+        </activity>
+      <activity
+            android:name=".FoodQuest3" 
+            android:label="quest3"
+            android:screenOrientation="portrait">
+        </activity>
+           <activity
+            android:name=".FoodQuest4" 
+            android:label="quest4"
+            android:screenOrientation="portrait">
+        </activity>   
+                 
+                 
     </application>
 
 </manifest>

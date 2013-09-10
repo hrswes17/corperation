@@ -4,5 +4,51 @@
     <string name="app_name">FastJudge2</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="back">もどる</string>
+    
+    <string name="what_keyword">キーワードを入れるとしたら?</string>
+    <string name="meet">肉</string>
+    <string name="party">パーティ</string>
+    <string name="cafe">カフェ</string>
+    <string name="ra_men">ラーメン</string>
+    <string name="lunch">ランチ</string>
+    <string name="famires">ファミレス</string>
+    <string name="dinner">ディナー</string>
+    <string name="seafood">魚介</string>
+    <string name="pastapizza">パスタ・ピザ</string>
+    <string name="anything">何でも</string>
+    
+    
+    <string name="where_food">どこで食べる？</string>
+    <string name="home">家</string>
+    <string name="out">お店</string>
+    
+    <string name="who_food">誰と食べる?</string>
+    <string name="one">一人</string>
+    <string name="friend">友人</string>
+    <string name="boy_girl">恋人</string>
+    <string name="many">5人以上</string>
+    <string name="senkou">先輩後輩</string>
+    <string name="family">家族</string>
+    <string name="not_friend">親しくない人</string>
+    
+    
+        <string name="now_feeling">いまの気分は？</string>
+    <string name="feel1">うれしい</string>
+<string name="feel2">たのしい</string>
+<string name="feel3">かなしい</string>
+<string name="feel4">さみしい</string>
+<string name="feel5"> ひま </string>
+<string name="feel6">つかれた</string>
+<string name="feel7"> ふつう</string>
+<string name="feel8">こわい</string>
+<string name="feel9">わくわく</string>
+<string name="feel10">すっきり</string>
+<string name="feel11">ほか</string>
+
+
+
+
+
 
 </resources>
